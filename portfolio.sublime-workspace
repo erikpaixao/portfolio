@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id	Attr"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title>Erik Paixão - WebDesigner</title>\n	<meta charset=\"utf-8\">\n</head>\n<body>\n	<header>\n		<div id=\"logo\">\n			\n		</div>\n			<nav>\n			<ol>\n				<li><a href=\"#principal\">Inicio</a></li>\n				<li><a href=\"#apresentacao\">Erik quem?!?</a></li>\n				<li><a href=\"#tecnologias\">Como trabalho</a></li>\n				<li><a href=\"#portfolio\">Portfólio</a></li>\n				<li><a href=\"#contato\">Contato</a></li>\n			</ol>\n		</nav>\n		\n	</header>\n	<section id=\"principal\"></section>\n	<section id=\"apresentacao\"></section>\n	<section id=\"tecnologias\"></section>\n	<section id=\"portfolio\"></section>\n	<section id=\"contato\"></section>\n	<footer>\n		<div>\n			\n		</div>\n		<div>\n			\n		</div>\n	</footer>\n</body>\n</html>",
+			"file": "/C/Users/erikp/Google Drive/Desenvolvimento/Sites/index.html",
+			"file_size": 745,
+			"file_write_time": 131092904693432965,
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/erikp/AppData/Local/Temp/scp38836/wp-content/themes/itheme2/archive-product.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp06982/wp-content/themes/itheme2/custom-functions.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp58008/wp-content/themes/itheme2/custom_style.css",
+		"/C/Users/erikp/AppData/Local/Temp/scp05424/wp-content/themes/itheme2/functions.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp30158/wp-content/themes/itheme2/header.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp37092/wp-content/themes/itheme2/includes/header-slider.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp37808/wp-content/themes/itheme2/page.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp36315/wp-content/themes/itheme2/footer.php",
+		"/C/Users/erikp/AppData/Local/Temp/scp34947/wp-content/themes/itheme2/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"home_page",
+			"query",
+			"jquery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/erikp/Google Drive/Desenvolvimento/Sites/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
