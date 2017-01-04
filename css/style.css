@@ -118,13 +118,12 @@ section#principal{
 
 
 section#apresentacao{
-	background: url("http://www.ivonfilho.com/images/site/web-designer-freelancer-brasilia-df-criacao-de-sites-df.jpg");
-	background-size: cover;
-	width: 100%;
-	height: 100%;
-	display: block;
-	top: 100%;
-	position: absolute;
+	background: rgb(222, 222, 222);
+    width: 100%;
+    height: 100%;
+    display: block;
+    top: 100%;
+    position: absolute;
 }
 section#tecnologias{
 	background: url("http://www.ivonfilho.com/images/site/web-designer-freelancer-brasilia-df-criacao-de-sites-df.jpg");
@@ -216,4 +215,118 @@ footer{
     background-position: center bottom,center calc(100% - 1px);
     background-color: transparent;
     transition: background 0s ease-out;
+}
+
+
+
+
+/*Twitter card init*/
+
+.twPc-div {
+    background: #fff none repeat scroll 0 0;
+    height: 80%;
+    width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: 15%;
+	border-radius: 10px;
+	box-shadow: 1px 1px 15px #848484;
+}
+.twPc-bg {
+    background-image: url("http://www.ivonfilho.com/images/site/web-designer-freelancer-brasilia-df-criacao-de-sites-df.jpg");
+    background-position: 0 50%;
+    background-size: 100% auto;
+    border-bottom: 1px solid #e1e8ed;
+    border-radius: 4px 4px 0 0;
+    height: 80%;
+    width: 100%;
+}
+.twPc-block {
+    display: block !important;
+    margin-top: -20px;
+}
+.twPc-button {
+    margin: -35px -10px 0;
+    text-align: right;
+    width: 100%;
+}
+
+.twPc-Apresentacao {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+    width: 75%;
+    position: relative;
+    top: 25%;
+    border-radius: 5px;
+}
+.twPc-avatarLink {
+    background-color: #fff;
+    border-radius: 6px;
+    display: inline-block !important;
+    float: left;
+    margin: -30px 5px 0 8px;
+    max-width: 100%;
+    padding: 1px;
+    vertical-align: bottom;
+}
+.twPc-avatarImg {
+    border: 2px solid #fff;
+    border-radius: 7px;
+    box-sizing: border-box;
+    color: #fff;
+    height: 72px;
+    width: 72px;
+}
+.twPc-divUser {
+    margin: 5px 0 0;
+}
+.twPc-divName {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+}
+.twPc-divName a {
+    color: inherit !important;
+}
+.twPc-divStats {
+    margin-left: 11px;
+    padding: 30px 0;
+    max-width: 20%;
+}
+.twPc-Arrange {
+    box-sizing: border-box;
+    display: table;
+    margin: 0;
+    min-width: 100%;
+    padding: 0;
+    table-layout: auto;
+}
+ul.twPc-Arrange {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.twPc-ArrangeSizeFit {
+    display: table-cell;
+    padding: 0;
+    vertical-align: top;
+}
+.twPc-ArrangeSizeFit a:hover {
+    text-decoration: none;
+}
+.twPc-StatValue {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.15s ease-in-out 0s;
+}
+.twPc-StatLabel {
+    color: #8899a6;
+    font-size: 10px;
+    letter-spacing: 0.02em;
+    overflow: hidden;
+    text-transform: uppercase;
+    transition: color 0.15s ease-in-out 0s;
 }
